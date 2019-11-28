@@ -12,7 +12,7 @@ def mailing(name_one, address_one, city_one, province_one, postal_code_one):
 
 def main():
     while True:
-        name = input("Enter the name of the reciever: ")
+        name = input("Enter the name of the receiver: ")
         address = input("Enter the address: ")
         city = input("Enter the city: ")
         province = input("Enter the province: ")
